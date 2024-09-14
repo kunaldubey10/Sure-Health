@@ -32,8 +32,9 @@ st.sidebar.title("Table of Content")
 page = st.sidebar.selectbox("Navigate", ["Home", "Know Your BMI", "Medical History", "Health Insurance", "About"])
 
 # Load the health insurance model
-with open('D:/health insurance/insurance_model.pkl', 'rb') as f:
+with open('insurance_model.pkl', 'rb') as f:
     model = pickle.load(f)
+
 
 # Home page
 if page == "Home":
