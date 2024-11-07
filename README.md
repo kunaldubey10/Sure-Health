@@ -5,7 +5,7 @@
 
 Key features include:
 
-- Personalized Insurance Suggestions**: Recommends health insurance plans based on individual health metrics and history.
+- Personalized Insurance Suggestions: Recommends health insurance plans based on individual health metrics and history.
 - Health Cost Prediction: Uses machine learning to predict future medical expenses.
 - BMI Calculator: Provides instant BMI calculations and suggestions.
 - Health Insights: Analyzes nutritional deficiencies and offers recommendations to improve overall well-being.
