@@ -24,7 +24,7 @@
 
 #### Added Team Emails:
 1. **kunaldubeyslp@gmail.com** (existing)
-2. **avinashvera222005@gmail.com** ✨ NEW
+2. **avinashverma222005@gmail.com** ✨ NEW
 3. **harshkumarop@gmail.com** ✨ NEW
 
 #### Updated Locations:
@@ -251,7 +251,7 @@ Test all these features to verify everything works:
 
 **Development Team:**
 - **Kunal** - kunaldubeyslp@gmail.com
-- **Avinash** - avinashvera222005@gmail.com
+- **Avinash** - avinashverma222005@gmail.com
 - **Harsh** - harshkumarop@gmail.com
 
 **Emergency Services (India):**

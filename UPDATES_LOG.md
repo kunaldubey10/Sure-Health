@@ -22,7 +22,7 @@ All references to "911" throughout the emergency page and instructions have been
 
 #### Footer (`templates/base.html`):
 - kunaldubeyslp@gmail.com
-- avinashvera222005@gmail.com ✨ NEW
+- avinashverma222005@gmail.com ✨ NEW
 - harshkumarop@gmail.com ✨ NEW
 
 #### Emergency Page:
@@ -183,7 +183,7 @@ h6 { font-size: 1rem; font-weight: 600; }
 
 **Sure Health Development Team:**
 - **Kunal** - kunaldubeyslp@gmail.com
-- **Avinash** - avinashvera222005@gmail.com
+- **Avinash** - avinashverma222005@gmail.com
 - **Harsh** - harshkumarop@gmail.com
 
 **Working Hours:** Mon-Fri: 9AM-6PM  

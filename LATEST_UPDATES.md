@@ -100,7 +100,7 @@ Emergency (red text, no icon)
    - 📧 + 🔗 icons (clickable)
 
 2. **Avinash Verma**
-   - Email: avinashvera222005@gmail.com
+   - Email: avinashverma222005@gmail.com
    - LinkedIn: [linkedin.com/in/avinashverma2005](https://www.linkedin.com/in/avinashverma2005)
    - 📧 + 🔗 icons (clickable)
 
@@ -225,7 +225,7 @@ The emergency page contact section shows all 3 emails correctly:
 ```
 Contact Sure Health Team
 📧 kunaldubeyslp@gmail.com
-📧 avinashvera222005@gmail.com
+📧 avinashverma222005@gmail.com
 📧 harshkumarop@gmail.com
 ```
 
@@ -349,7 +349,7 @@ Contact Sure Health Team
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/kunal-dubey10)
 
 **Avinash Verma**
-- 📧 avinashvera222005@gmail.com
+- 📧 avinashverma222005@gmail.com
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/avinashverma2005)
 
 **Harsh Kumar**

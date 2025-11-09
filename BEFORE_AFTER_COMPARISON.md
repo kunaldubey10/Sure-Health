@@ -39,7 +39,7 @@ Emergency: 911
 ### AFTER: ✅
 ```
 Email 1: kunaldubeyslp@gmail.com
-Email 2: avinashvera222005@gmail.com ← NEW
+Email 2: avinashverma222005@gmail.com ← NEW
 Email 3: harshkumarop@gmail.com ← NEW
 Emergency: 102 (India)
 ```
