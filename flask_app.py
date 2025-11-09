@@ -11,7 +11,8 @@ from datetime import datetime
 import json
 
 app = Flask(__name__)
-app.secret_key = 'your-secret-key-change-in-production'
+# Use environment variable for secret key (secure for production)
+app.secret_key = os.environ.get('SECRET_KEY', 'your-secret-key-change-in-production')
 
 # Load the health insurance model
 try:
