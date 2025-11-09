@@ -145,8 +145,8 @@ Sure-Health/
 
 ## 👥 Team
 
-- **Avinash Kumar** - [avinashkumarjnv05@gmail.com](mailto:avinashkumarjnv05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/avinashverma2005)
-- **Harsh Vardhan Singh** - [harshvardhansingh8171@gmail.com](mailto:harshvardhansingh8171@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harsh-kumar-1baa94260)
+- **Avinash Kumar** - [avinashverma222005@gmail.com](mailto:avinashverma222005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/avinashverma2005)
+- **Harsh Vardhan Singh** - [harshkumarop@gmail.com](mailto:harshkumarop@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harsh-kumar-1baa94260)
 - **Kunal Dubey** - [kunaldubeyslp@gmail.com](mailto:kunaldubeyslp@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kunal-dubey10)
 
 ## 📄 License

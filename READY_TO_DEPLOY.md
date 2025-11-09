@@ -183,8 +183,8 @@ Visit your live URL and test all features!
 
 ## 👥 TEAM
 
-- **Avinash Kumar** - avinashkumarjnv05@gmail.com
-- **Harsh Vardhan Singh** - harshvardhansingh8171@gmail.com
+- **Avinash Kumar** - avinashverma222005@gmail.com
+- **Harsh Vardhan Singh** - harshkumarop@gmail.com
 - **Kunal Dubey** - kunaldubeyslp@gmail.com
 
 ---

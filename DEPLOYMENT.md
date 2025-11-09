@@ -215,8 +215,8 @@ Check that `static/` folder is properly structured and pushed to GitHub.
 ## 📞 Need Help?
 
 Contact the Sure Health team:
-- Avinash: avinashkumarjnv05@gmail.com
-- Harsh: harshvardhansingh8171@gmail.com
+- Avinash: avinashverma222005@gmail.com
+- Harsh: harshkumarop@gmail.com
 - Kunal: kunaldubeyslp@gmail.com
 
 ---
